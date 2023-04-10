@@ -4,11 +4,8 @@
 # ☮ About Me:
 
 Hi there! My name is Vaibhav Singh and I am a software engineer with a passion for creating high-quality, reliable software systems. <br/> 
-I have a strong foundation in computer science and have experience in a variety of programming languages, <br />
-including JS/TS, Python, Rust, Go, Java. <br/> 
-I am always looking to expand my skills and knowledge, and I am excited to continue learning and growing as a software engineer. <br /> Whether I'm working on new development projects or maintaining and improving existing systems, <br /> 
-I strive to deliver solutions that meet the needs of users and exceed their expectations. <br/>
-
+I have a strong foundation in computer science and have experience in a variety of programming languages, including JS/TS, Python, Rust, Go, Java. <br/> 
+I am always looking to expand my skills and knowledge, and I am excited to continue learning and growing as a software engineer. <br /> Whether I'm working on new development projects or maintaining and improving existing systems, I strive to deliver solutions that meet the needs of users and exceed their expectations. <br/>
 
 ## 🌐 Socials:
 
