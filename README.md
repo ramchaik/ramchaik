@@ -60,16 +60,6 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center"align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
-  <a href="https://github.com/ramchaik">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramchaik&layout=compact&theme=radical"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramchaik&theme=dark"/>
-  </a>
-</p>
-
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramchaik/)
