@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vaibhav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A052F7&width=435&lines=Full-Stack+Software+Engineer;Master's+Student+%40+Dalhousie+University;DevOps+%7C+Neural+Nets+%7C+LLMs+%7C+Cloud;Crafting+solutions+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A052F7&width=435&lines=Full-Stack+Software+Engineer;Master's+Student+%40+Dalhousie+University;Crafting+solutions+with+code)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 🎓 Pursuing Master's in Applied Computer Science @ Dalhousie University, Halifax, Canada
