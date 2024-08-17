@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 Pursuing Master's in Applied Computer Science @ Dalhousie University, Halifax, Canada
 - 💻 Full-Stack Software Engineer passionate about crafting efficient solutions
-- 🔍 Exploring: Golang, HTMX, Neural Networks, LLMs, DevOps, and Cloud Technologies
+- 🔍 Exploring: Golang, HTMX, LLMs, DevOps, and Cloud Technologies
 
 ## 🔧 Technologies & Tools
 
