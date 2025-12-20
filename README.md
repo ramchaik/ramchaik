@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Vaibhav
 
-## 🚀 About Me
-- 💻 Full-Stack Software Engineer
-- 🌱 Currently exploring Golang, LLMs, and Cloud Technologies
-- 🔮 Future: Explore Elixir for building highly concurrent and fault-tolerant systems
+[![Website](https://img.shields.io/badge/Website-ramchaik.xyz-0b7285?style=flat&logo=google-chrome&logoColor=white)](https://ramchaik.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramchaik-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramchaik/)
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramchaik/) 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramchaik&color=blueviolet)
-
-
+💻 Full‑stack engineer focused on building **scalable** web apps.  
+🚀 Working with TypeScript, React, Node, and Golang.  
+🌱 Exploring LLMs and cloud platforms; curious about Elixir and distributed systems.
